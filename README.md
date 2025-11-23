@@ -9,7 +9,6 @@ Este proyecto usa el dataset **Palmer Penguins** para construir un modelo de Mac
 - El dataset contiene **344 pingüinos** con mediciones de tres especies: *Adélie*, *Chinstrap* y *Gentoo*. 
 - Variables principales:
   - `species`: especie del pingüino.
-  - `island`: isla donde fue observado.
   - `bill_length_mm` y `bill_depth_mm`: 
   - `flipper_length_mm`: longitud del flipper (ala). 
   - `body_mass_g`: masa corporal en gramos.  
